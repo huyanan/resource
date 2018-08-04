@@ -1,0 +1,1 @@
+"D:\software\thunder9\Program\Thunder.exe" ftp://ygdy8:ygdy8@y201.dygod.org:1132/[阳光电影www.ygdy8.com].冬眠.BD.720p.中文字幕.rmvb

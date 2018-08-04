@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "async": "^2.6.1",
+    "cheerio": "^1.0.0-rc.2",
+    "encoding": "^0.1.12",
+    "gbk": "^0.1.0",
+    "jschardet": "^1.6.0",
+    "mongoose": "^5.2.6",
+    "superagent-charset": "^1.2.0"
+  }
+}
