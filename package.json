@@ -2,6 +2,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "cheerio": "^1.0.0-rc.2",
+    "crawler": "^1.4.0",
     "encoding": "^0.1.12",
     "gbk": "^0.1.0",
     "jschardet": "^1.6.0",
